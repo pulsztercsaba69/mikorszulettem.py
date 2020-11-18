@@ -1,0 +1,3 @@
+szam1 = int(input('mi az eggyik szám?'))
+szam2 = int(input('mi a másik szám?'))
+print('a szorzatunk:', int(input('mi az eggyik szám?')) * int(input('mi a másik szám?')))

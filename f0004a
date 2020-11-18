@@ -1,0 +1,7 @@
+nev = input('Hogy hívják magát'?)
+kor = input('Hány éves maga?')
+kor = int(kor)
+ev = input('Melyik évben járunk?')
+ev = int(ev)
+szuletesi_ev = ev - kor
+print('nev, kor, ev, szuletesi_ev')
